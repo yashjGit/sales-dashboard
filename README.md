@@ -15,7 +15,7 @@ An interactive sales analytics dashboard built with Python & Streamlit.
 Python | Pandas | Plotly | Streamlit | MySQL-ready
 
 ## 🚀 Live Demo
-[Click here to view live dashboard](YOUR_STREAMLIT_URL)
+[Click here to view live dashboard](https://sales-dashboard-iqssbrjwjbk3n2bbskcqba.streamlit.app)
 
 ## 📁 Dataset
 Superstore Sales Dataset (Kaggle)
